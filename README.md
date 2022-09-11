@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aviral2105-crypto
+- 👋 Hi, I’m @hackthic
 - 👀 I’m interested in ... jAVA
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...AMAZON
