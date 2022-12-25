@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hackthic
-- 👀 I’m interested in ... jAVA
-- 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...AMAZON
-- 📫 How to reach me ...BY FRIENDS
+- 👋 Hi, I’m @Aviral Pandey
+- 👀 I’m interested in ...Artificial Intelligence and Machine Learning 
+- 🌱 I’m currently learning ... Web Development 
+- 📫 How to reach me ...@hackthic 
 
 <!---
 aviral2105-crypto/aviral2105-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
